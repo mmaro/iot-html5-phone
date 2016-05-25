@@ -5,6 +5,9 @@ declared-services:
   iot-phone-iotf-service:
     label: iotf-service
     plan: iotf-service-free
+  iot-phone-rti-service:
+    label: IoT Real-Time Insight
+    plan: Lite
 
 applications:
 - services:
